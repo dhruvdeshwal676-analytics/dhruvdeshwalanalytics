@@ -34,7 +34,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an early-career analytics professional based in Palwal, Haryana, currently pursuing an MBA in Business Analytics. I work at the intersection of data analysis, business intelligence, and reporting — cleaning and analyzing data, building dashboards, and translating numbers into insights that support business decisions. My experience spans SQL, Python, and Power BI, alongside strong fundamentals in Excel-based reporting and stakeholder communication.
+I'm an early-career analytics MBA professional in Business Analytics. I work at the intersection of data analysis, business intelligence, and reporting — cleaning and analyzing data, building dashboards, and translating numbers into insights that support business decisions. My experience spans SQL, Python, and Power BI, alongside strong fundamentals in Excel-based reporting and stakeholder communication.
 
 ---
 
